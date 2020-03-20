@@ -1,5 +1,5 @@
 {
-  "name": "install-local",
+  "name": "@rizzlesauce/install-local",
   "version": "1.0.0",
   "description": "A small module for installing local packages. Works for both npm >= 5 and older versions.",
   "main": "src/index.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicojs/node-install-local.git"
+    "url": "git+https://github.com/rizzlesauce/node-install-local.git"
   },
   "keywords": [
     "npm",
@@ -37,12 +37,12 @@
   "author": "Nico Jansen <jansennico@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nicojs/node-install-local/issues"
+    "url": "https://github.com/rizzlesauce/node-install-local/issues"
   },
   "engines": {
     "node": ">=8"
   },
-  "homepage": "https://github.com/nicojs/node-install-local#readme",
+  "homepage": "https://github.com/rizzlesauce/node-install-local#readme",
   "devDependencies": {
     "@stryker-mutator/core": "^2.4.0",
     "@stryker-mutator/html-reporter": "^2.4.0",
